@@ -1,26 +1,35 @@
-# 🔢 Number Guessing Game (Python)
+# 🎯 Number Guessing Game (Python)
 
-A simple Python game where the user tries to guess a randomly generated number within a given range.
+A Python-based interactive game where the user has limited chances to guess a randomly generated number.
 
 # 💡 Overview
 
-This project was built independently as part of my Python learning journey.
-It focuses on implementing logic, loops, and user interaction without following a tutorial.
+This project was built as part of my Python learning journey.
+It focuses on implementing game logic, loops, and conditional statements to create an interactive experience.
 
 # ⚙️ Features
-* 🎯 Random number generation
-* 🔁 Multiple attempts until correct guess
+* 🎲 Random number generation (1–100)
+* ⏳ Limited attempts (5 chances)
 * 📉 Hints (too high / too low)
-* 🎮 Interactive command-line gameplay
+* 🎮 Interactive gameplay
+* 🏆 Win/Lose result display
 # 🛠️ Technologies Used
 * Python
 * Random module
-
 # 📚 What I Learned
-* Writing logic without guidance
-* Using loops effectively
+* Using loops (while)
+* Implementing game logic
 * Handling user input
-* Building interactive programs
+* Working with conditions and counters
+# 🎯 Purpose
 
-# 🎯 Highlight
-This project was built independently without following a tutorial, demonstrating my problem-solving skills and understanding of Python fundamentals.
+This project was created to practice logic building and create an engaging command-line game using Python.
+
+# 🔮 Future Improvements
+* Add difficulty levels
+* Add score system
+* Allow replay option
+* Create GUI version
+# 👨‍💻 Author
+
+Sujal Verma
