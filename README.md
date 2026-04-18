@@ -13,16 +13,18 @@ It focuses on implementing game logic, loops, and conditional statements to crea
 * 📉 Hints (too high / too low)
 * 🎮 Interactive gameplay
 * 🏆 Win/Lose result display
+  
 # 🛠️ Technologies Used
 * Python
 * Random module
+  
 # 📚 What I Learned
 * Using loops (while)
 * Implementing game logic
 * Handling user input
 * Working with conditions and counters
-# 🎯 Purpose
 
+# 🎯 Purpose
 This project was created to practice logic building and create an engaging command-line game using Python.
 
 # 🔮 Future Improvements
